@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Carlos Pastrana <img src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505844870079-VFIG8ZQWCS1UMQ94D5V7/HI+GIF.gif?format=2500w" width="80"></h2>
+<h2><img src="https://images.squarespace-cdn.com/content/v1/595e1b9ab6ac502f684cbe56/1505844870079-VFIG8ZQWCS1UMQ94D5V7/HI+GIF.gif?format=2500w" width="80"> there, I'm Carlos Pastrana</h2>
 
 <p><em>Current student in Universidad Nacional Autónoma de México | Licenciatura en Informática <img src="https://unamglobal.unam.mx/wp-content/uploads/2017/05/LOGO-UNAM.png" width="30">
   
