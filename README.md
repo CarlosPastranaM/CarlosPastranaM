@@ -3,9 +3,10 @@
 <p><em>Current student in Universidad Nacional Autónoma de México | Licenciatura en Informática <img src="https://unamglobal.unam.mx/wp-content/uploads/2017/05/LOGO-UNAM.png" width="30">
   
 - Explorer in LaunchX | Microsoft Scholarship
-- Aspiring Data Scientist in Data Scientist School by Platzi ⚗️ 
+- Aspiring Data Scientist in Data Scientist School by Platzi ⚗️
+- Bécalos English Challenge | Bécalos Scholarship
 - Inovacción Virtual 2° Edition | Microsoft Scholarship
-- Bécalos English Challenge | Bécalos Scholarship</p></em>
+</p></em>
 
 My <img src='https://cdn.dribbble.com/users/1397073/screenshots/4883979/media/a2b9f965c0a9a515fda51cbcf63bc401.gif' width='70'>
 
