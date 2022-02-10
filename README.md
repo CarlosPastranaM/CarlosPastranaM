@@ -3,7 +3,7 @@
 <p><em>Current student in Universidad Nacional Autónoma de México | Licenciatura en Informática <img src="https://unamglobal.unam.mx/wp-content/uploads/2017/05/LOGO-UNAM.png" width="30">
   
 - Explorer in LaunchX | Microsoft Scholarship
-- I study in my free time to become a Data Scientits </p></em>
+- Aspiring Data Scientits in Data Scientist School by Platzi ⚗️ </p></em>
 
 My <img src='https://cdn.dribbble.com/users/1397073/screenshots/4883979/media/a2b9f965c0a9a515fda51cbcf63bc401.gif' width='70'>
 
