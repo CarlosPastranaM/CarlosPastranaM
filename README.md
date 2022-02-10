@@ -12,7 +12,7 @@ My <img src='https://cdn.dribbble.com/users/1397073/screenshots/4883979/media/a2
 ```javascript
 const Carlos = {
   pl: ['Python', 'C#', 'C++', 'JavaScript', 'HTML', 'CSS'], 
-  tools: ['Pandas', 'Mathlab', 'Azure', 'Git'],
+  tools: ['Pandas', 'Mathlab', 'Azure', 'Git', 'PostgreSQL'],
   areas: ['Data', 'Front End', 'Cloud'],
   softSkills: ['Administration/Control of IT Projects', 'Teamwork', 'Empathy', 'Stress tolerance', 'Continuous learning'],
   certificates: {
