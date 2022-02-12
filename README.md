@@ -5,7 +5,7 @@
 - Explorer in LaunchX | Microsoft Scholarship
 - Aspiring Data Scientist in Data Scientist School by Platzi ⚗️
 - Bécalos English Challenge | Bécalos Scholarship
-- Inovacción Virtual 2° Edition | Microsoft Scholarship
+- Inovacción Virtual 2° Edition | Data Scientist | Microsoft Scholarship
 </p></em>
 
 My <img src='https://cdn.dribbble.com/users/1397073/screenshots/4883979/media/a2b9f965c0a9a515fda51cbcf63bc401.gif' width='70'>
