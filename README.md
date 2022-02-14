@@ -27,7 +27,7 @@ const carlos = {
 ```
 <em><b>"It's all right to cry. It's all right to run away. Just don't ever give up"</em></b>
 ---
-### Current student in:
+### Current student:
 - **Licenciatura en Informática** [@Universidad Nacional Autónoma de México](https://www.unam.mx/) <img src="https://unamglobal.unam.mx/wp-content/uploads/2017/05/LOGO-UNAM.png" width="30">
 
 From [@CarlosPastrana](https://github.com/CarlosPastranaM)
