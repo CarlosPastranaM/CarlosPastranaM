@@ -11,7 +11,7 @@
 My <img src='https://cdn.dribbble.com/users/1397073/screenshots/4883979/media/a2b9f965c0a9a515fda51cbcf63bc401.gif' width='70'>
 
 ```javascript
-const carlos = {
+const Carlos = {
   pl: ['Python', 'C#', 'C++', 'JavaScript', 'HTML', 'CSS'], 
   tools: ['Pandas', 'Mathlab', 'Azure', 'Git', 'VS Code'],
   databases: ['postgreSQL', 'SQL Server'],
